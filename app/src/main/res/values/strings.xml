@@ -1,0 +1,115 @@
+<resources>
+
+    <!--application name-->
+    <string name="app_name">Toko Online</string>
+
+    <!--navigation drawer and home menu name-->
+    <string name="menu_product">Produk</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_checkout">Checkout</string>
+    <string name="menu_profile">Profil</string>
+    <string name="menu_info">Informasi</string>
+    <string name="menu_about">About</string>
+    <string name="menu_share">Bagikan</string>
+    <string name="menu_contact">Kontak</string>
+
+    <!--title bar-->
+    <string name="title_category">Kategory</string>
+    <string name="title_menu">List Menu</string>
+    <string name="title_cart">Cart Saya</string>
+    <string name="title_checkout">Checkout</string>
+    <string name="title_confirm">Selamat...!</string>
+    <string name="title_contact_us">Hubungi Kami</string>
+    <string name="title_about">About</string>
+    <string name="title_buy">Beli barang ini</string>
+    <string name="title_save">Simpan Gambar</string>
+
+    <!--action-->
+    <string name="action_cart">Cart Saya</string>
+    <string name="action_checkout">Proses Checkout</string>
+    <string name="action_buy">Beli barang ini</string>
+    <string name="action_save">Simpan gambar</string>
+    <string name="action_clear">Hapus Semua</string>
+
+    <!--information tab name-->
+    <string name="information_tab1">Cara untuk membeli produk kami</string>
+    <string name="information_tab2">Payment</string>
+    <string name="information_tab3">Hubungi kami</string>
+
+    <!--network-->
+    <string name="no_internet">Hubungkan ke internet !</string>
+    <string name="alert">Koneksi Gagal !</string>
+    <string name="not_found">Produk tidak ditemukan !</string>
+
+    <!--shipping information on checkout menu-->
+    <string name="shipping_list_1">Bebas biaya kirim</string>
+    <string name="shipping_list_2">Pengiriman Tunai</string>
+    <string name="shipping_list_3">POS Indonesia</string>
+    <string name="shipping_list_4">JNE</string>
+
+    <!--menu, cart and order-->
+    <string name="search">Cari Menu</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="number_order">Nomor Pesanan : </string>
+    <string name="order">Pesanan</string>
+    <string name="detail">Detail</string>
+    <string name="total_order">Total pesanan :</string>
+    <string name="clear_order">Hapus semua pesanan</string>
+    <string name="clear_all_order">Apakah Anda ingin menghapus semua pesanan Anda?</string>
+    <string name="clear_one_order">Apakah Anda ingin menghapus pesanan ini?</string>
+    <string name="db_exist_alert">Apakah Anda ingin menghapus pesanan sebelumnya?</string>
+    <string name="no_order">Keranjang Anda Kosong, Silakan Pesan Pertama.</string>
+    <string name="option_yes">Ya</string>
+    <string name="option_no">Tidak</string>
+
+    <!--checkout menu-->
+    <string name="checkout_your_name">Nama</string>
+    <string name="checkout_address">Alamat</string>
+    <string name="checkout_city">Kota</string>
+    <string name="checkout_province">Provinsi</string>
+    <string name="checkout_email">Email</string>
+    <string name="checkout_set_date">Tanggal</string>
+    <string name="checkout_set_time">Waktu</string>
+    <string name="checkout_phone_number">HP</string>
+    <string name="checkout_order_list">List Pemesanan</string>
+    <string name="checkout_add_comment">Komentar (Optional)</string>
+    <string name="checkout_send_order">Send</string>
+    <string name="form_alert">Silakan lengkapi formulir terlebih dahulu.</string>
+    <string name="sending_alert">Mengirim data. Tunggu sebentar &#8230;</string>
+    <string name="ok_alert">Pesanan Anda telah berhasil dikirim.</string>
+    <string name="failed_alert">Pesanan Anda belum terkirim.</string>
+    <string name="order_alert">Anda belum memesan</string>
+    <string name="no_order_menu">Tidak ada pesanan</string>
+
+    <!--app about information-->
+    <string name="app_version">Versi 2.1.2</string>
+    <string name="app_copyright">Copyright &#169; 2019 Toko Online </string>
+    <string name="app_email">toko_online@gmail.com</string>
+    <string name="share_summary">Share</string>
+    <string name="rate_summary">Berikan nilai dan umpan balik Anda</string>
+    <string name="more_summary">More apps </string>
+    <string name="title_app_name">Nama aplikasi</string>
+    <string name="title_app_version">Build Version</string>
+    <string name="title_app_email">Email</string>
+    <string name="title_app_copyright">Copyright</string>
+    <string name="title_app_share">Share</string>
+    <string name="title_app_rate">Rate</string>
+    <string name="title_app_more">More</string>
+    <string name="more_apps">https://play.google.com/</string>
+    <string name="share_content">Saya ingin membagikan ini dengan Anda. Download di PlayStore</string>
+
+    <!--contact us-->
+    <string name="hint_email_subject">Subject :</string>
+    <string name="hint_email_message">Pesan :</string>
+    <string name="button_send">Kirim</string>
+
+    <!--nav drawer header image-->
+    <!--set "@string/drawer_content_on" to enable navigation drawer header image-->
+    <!--set "@string/drawer_content_off" to disable navigation drawer header image-->
+    <string name="drawer_visibility">@string/drawer_content_on</string>
+    <string name="drawer_open">Slider Menu Buka</string>
+    <string name="drawer_close">Slider Menu Tutup</string>
+    <string name="drawer_content_on">0</string>
+    <string name="drawer_content_off">2</string>
+
+</resources>
